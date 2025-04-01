@@ -1,0 +1,7 @@
+C:\Users\anktu\OneDrive\Máy tính\C#\Bai11\bin\Debug\Bai11.exe.config
+C:\Users\anktu\OneDrive\Máy tính\C#\Bai11\bin\Debug\Bai11.exe
+C:\Users\anktu\OneDrive\Máy tính\C#\Bai11\bin\Debug\Bai11.pdb
+C:\Users\anktu\OneDrive\Máy tính\C#\Bai11\obj\Debug\Bai11.csproj.AssemblyReference.cache
+C:\Users\anktu\OneDrive\Máy tính\C#\Bai11\obj\Debug\Bai11.csproj.CoreCompileInputs.cache
+C:\Users\anktu\OneDrive\Máy tính\C#\Bai11\obj\Debug\Bai11.exe
+C:\Users\anktu\OneDrive\Máy tính\C#\Bai11\obj\Debug\Bai11.pdb
