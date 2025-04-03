@@ -1,0 +1,7 @@
+C:\Users\anktu\OneDrive\Máy tính\C#\Bai14\bin\Debug\Bai14.exe.config
+C:\Users\anktu\OneDrive\Máy tính\C#\Bai14\bin\Debug\Bai14.exe
+C:\Users\anktu\OneDrive\Máy tính\C#\Bai14\bin\Debug\Bai14.pdb
+C:\Users\anktu\OneDrive\Máy tính\C#\Bai14\obj\Debug\Bai14.csproj.AssemblyReference.cache
+C:\Users\anktu\OneDrive\Máy tính\C#\Bai14\obj\Debug\Bai14.csproj.CoreCompileInputs.cache
+C:\Users\anktu\OneDrive\Máy tính\C#\Bai14\obj\Debug\Bai14.exe
+C:\Users\anktu\OneDrive\Máy tính\C#\Bai14\obj\Debug\Bai14.pdb

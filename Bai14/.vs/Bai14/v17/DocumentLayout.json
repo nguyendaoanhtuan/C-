@@ -1,0 +1,386 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anktu\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\Bai14\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F002508-0E26-4ED3-BB83-B0157611428F}|..\\Bai22\\Bai22.csproj|c:\\users\\anktu\\onedrive\\m\u00E1y t\u00EDnh\\c#\\bai22\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAF5FDB1-DF73-41A9-8111-A1985C9AC348}|..\\Bai22.1\\Bai22.1.csproj|c:\\users\\anktu\\onedrive\\m\u00E1y t\u00EDnh\\c#\\bai22.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAF5FDB1-DF73-41A9-8111-A1985C9AC348}|..\\Bai22.1\\Bai22.1.csproj|c:\\users\\anktu\\onedrive\\m\u00E1y t\u00EDnh\\c#\\bai22.1\\nhanviendica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAF5FDB1-DF73-41A9-8111-A1985C9AC348}|..\\Bai22.1\\Bai22.1.csproj|c:\\users\\anktu\\onedrive\\m\u00E1y t\u00EDnh\\c#\\bai22.1\\nhanvienhanhchinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAF5FDB1-DF73-41A9-8111-A1985C9AC348}|..\\Bai22.1\\Bai22.1.csproj|c:\\users\\anktu\\onedrive\\m\u00E1y t\u00EDnh\\c#\\bai22.1\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F002508-0E26-4ED3-BB83-B0157611428F}|..\\Bai22\\Bai22.csproj|c:\\users\\anktu\\onedrive\\m\u00E1y t\u00EDnh\\c#\\bai22\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F002508-0E26-4ED3-BB83-B0157611428F}|..\\Bai22\\Bai22.csproj|c:\\users\\anktu\\onedrive\\m\u00E1y t\u00EDnh\\c#\\bai22\\hocsinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACC7FEC9-7407-4DFF-8519-5FC61AF6F04F}|..\\Bai21\\Bai21.csproj|c:\\users\\anktu\\onedrive\\m\u00E1y t\u00EDnh\\c#\\bai21\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3FB0F58-AF19-4687-BB6C-3D5F2B80D840}|..\\Bai20\\Bai20.csproj|c:\\users\\anktu\\onedrive\\m\u00E1y t\u00EDnh\\c#\\bai20\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6570FDB9-92D7-48A1-9333-AF9B7F13CCA9}|..\\Bai19\\Bai19.csproj|c:\\users\\anktu\\onedrive\\m\u00E1y t\u00EDnh\\c#\\bai19\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41690224-F720-4BB0-9C11-EAF59B407E19}|..\\Bai18\\Bai18.csproj|c:\\users\\anktu\\onedrive\\m\u00E1y t\u00EDnh\\c#\\bai18\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{416445EB-98D2-4B2B-81E6-F54836434AA3}|..\\Bai17\\Bai17.csproj|c:\\users\\anktu\\onedrive\\m\u00E1y t\u00EDnh\\c#\\bai17\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02386B17-B42D-4A95-B7D9-77522644CDCA}|..\\Bai16.1\\Bai16.1.csproj|c:\\users\\anktu\\onedrive\\m\u00E1y t\u00EDnh\\c#\\bai16.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7762638-8384-4B55-9498-7A9DBF3C6DAB}|..\\Bai16\\Bai16.csproj|c:\\users\\anktu\\onedrive\\m\u00E1y t\u00EDnh\\c#\\bai16\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41FE8B68-73B3-42E9-8CFB-16F605BC087E}|..\\Bai15.6\\Bai15.6.csproj|c:\\users\\anktu\\onedrive\\m\u00E1y t\u00EDnh\\c#\\bai15.6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FFD299-DF4C-416E-B12A-EF3B9DC7A946}|..\\Bai15.5\\Bai15.5.csproj|c:\\users\\anktu\\onedrive\\m\u00E1y t\u00EDnh\\c#\\bai15.5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3821835-4E2F-4C33-A5CE-BEF02024BAD2}|..\\Bai15.4\\Bai15.4.csproj|c:\\users\\anktu\\onedrive\\m\u00E1y t\u00EDnh\\c#\\bai15.4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4020B80-A959-4CE0-BB22-8DFFE584BED8}|..\\Bai15.3\\Bai15.3.csproj|c:\\users\\anktu\\onedrive\\m\u00E1y t\u00EDnh\\c#\\bai15.3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA106CA8-449F-4A4F-A8FB-FFC5ECB768BC}|..\\Bai15.2\\Bai15.2.csproj|c:\\users\\anktu\\onedrive\\m\u00E1y t\u00EDnh\\c#\\bai15.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85A75281-3958-4883-B336-A7520E875ADD}|..\\Bai15\\Bai15.csproj|c:\\users\\anktu\\onedrive\\m\u00E1y t\u00EDnh\\c#\\bai15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB7276AC-8D54-474B-BC61-4EEB06095379}|..\\Bai15.1\\Bai15.1.csproj|c:\\users\\anktu\\onedrive\\m\u00E1y t\u00EDnh\\c#\\bai15.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2AD33CD-895B-40BE-A5C9-921834B5525B}|..\\Bai14.2\\Bai14.2.csproj|c:\\users\\anktu\\onedrive\\m\u00E1y t\u00EDnh\\c#\\bai14.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE70B830-360D-40ED-9DF6-6907F06A1B84}|..\\Bai14.1\\Bai14.1.csproj|c:\\users\\anktu\\onedrive\\m\u00E1y t\u00EDnh\\c#\\bai14.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F24006E-4D80-4F82-96C2-1C89ECACAFA8}|Bai14.csproj|C:\\Users\\anktu\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\Bai14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F24006E-4D80-4F82-96C2-1C89ECACAFA8}|Bai14.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NhanVienDiCa.cs",
+              "DocumentMoniker": "C:\\Users\\anktu\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\Bai22.1\\NhanVienDiCa.cs",
+              "RelativeDocumentMoniker": "..\\Bai22.1\\NhanVienDiCa.cs",
+              "ToolTip": "C:\\Users\\anktu\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\Bai22.1\\NhanVienDiCa.cs",
+              "RelativeToolTip": "..\\Bai22.1\\NhanVienDiCa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T13:16:13.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NhanVienHanhChinh.cs",
+              "DocumentMoniker": "C:\\Users\\anktu\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\Bai22.1\\NhanVienHanhChinh.cs",
+              "RelativeDocumentMoniker": "..\\Bai22.1\\NhanVienHanhChinh.cs",
+              "ToolTip": "C:\\Users\\anktu\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\Bai22.1\\NhanVienHanhChinh.cs",
+              "RelativeToolTip": "..\\Bai22.1\\NhanVienHanhChinh.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T13:15:16.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NhanVien.cs",
+              "DocumentMoniker": "C:\\Users\\anktu\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\Bai22.1\\NhanVien.cs",
+              "RelativeDocumentMoniker": "..\\Bai22.1\\NhanVien.cs",
+              "ToolTip": "C:\\Users\\anktu\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\Bai22.1\\NhanVien.cs",
+              "RelativeToolTip": "..\\Bai22.1\\NhanVien.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAiwBQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T13:14:48.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\anktu\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\Bai22.1\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Bai22.1\\Program.cs",
+              "ToolTip": "C:\\Users\\anktu\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\Bai22.1\\Program.cs",
+              "RelativeToolTip": "..\\Bai22.1\\Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwCQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T13:14:33.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HocSinh.cs",
+              "DocumentMoniker": "C:\\Users\\anktu\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\Bai22\\HocSinh.cs",
+              "RelativeDocumentMoniker": "..\\Bai22\\HocSinh.cs",
+              "ToolTip": "C:\\Users\\anktu\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\Bai22\\HocSinh.cs",
+              "RelativeToolTip": "..\\Bai22\\HocSinh.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T13:02:28.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SinhVien.cs",
+              "DocumentMoniker": "C:\\Users\\anktu\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\Bai22\\SinhVien.cs",
+              "RelativeDocumentMoniker": "..\\Bai22\\SinhVien.cs",
+              "ToolTip": "C:\\Users\\anktu\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\Bai22\\SinhVien.cs",
+              "RelativeToolTip": "..\\Bai22\\SinhVien.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAqwBUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T12:05:30.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\anktu\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\Bai22\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Bai22\\Program.cs",
+              "ToolTip": "C:\\Users\\anktu\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\Bai22\\Program.cs",
+              "RelativeToolTip": "..\\Bai22\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T11:56:35.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\anktu\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\Bai21\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Bai21\\Program.cs",
+              "ToolTip": "C:\\Users\\anktu\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\Bai21\\Program.cs",
+              "RelativeToolTip": "..\\Bai21\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAcwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T11:46:51.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\anktu\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\Bai20\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Bai20\\Program.cs",
+              "ToolTip": "C:\\Users\\anktu\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\Bai20\\Program.cs",
+              "RelativeToolTip": "..\\Bai20\\Program.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAiwGEAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T11:03:58.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\anktu\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\Bai19\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Bai19\\Program.cs",
+              "ToolTip": "C:\\Users\\anktu\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\Bai19\\Program.cs",
+              "RelativeToolTip": "..\\Bai19\\Program.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAAAFAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T10:37:40.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\anktu\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\Bai18\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Bai18\\Program.cs",
+              "ToolTip": "C:\\Users\\anktu\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\Bai18\\Program.cs",
+              "RelativeToolTip": "..\\Bai18\\Program.cs",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAiwJIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T09:23:44.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\anktu\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\Bai17\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Bai17\\Program.cs",
+              "ToolTip": "C:\\Users\\anktu\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\Bai17\\Program.cs",
+              "RelativeToolTip": "..\\Bai17\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAACsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T09:07:28.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\anktu\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\Bai16.1\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Bai16.1\\Program.cs",
+              "ToolTip": "C:\\Users\\anktu\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\Bai16.1\\Program.cs",
+              "RelativeToolTip": "..\\Bai16.1\\Program.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAiwFUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T08:49:00.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\anktu\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\Bai16\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Bai16\\Program.cs",
+              "ToolTip": "C:\\Users\\anktu\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\Bai16\\Program.cs",
+              "RelativeToolTip": "..\\Bai16\\Program.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAAAH4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T08:06:26.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\anktu\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\Bai15.6\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Bai15.6\\Program.cs",
+              "ToolTip": "C:\\Users\\anktu\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\Bai15.6\\Program.cs",
+              "RelativeToolTip": "..\\Bai15.6\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T08:01:33.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\anktu\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\Bai15.5\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Bai15.5\\Program.cs",
+              "ToolTip": "C:\\Users\\anktu\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\Bai15.5\\Program.cs",
+              "RelativeToolTip": "..\\Bai15.5\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAuwBIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T07:55:02.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\anktu\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\Bai15.4\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Bai15.4\\Program.cs",
+              "ToolTip": "C:\\Users\\anktu\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\Bai15.4\\Program.cs",
+              "RelativeToolTip": "..\\Bai15.4\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBcAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T07:43:12.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\anktu\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\Bai15.3\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Bai15.3\\Program.cs",
+              "ToolTip": "C:\\Users\\anktu\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\Bai15.3\\Program.cs",
+              "RelativeToolTip": "..\\Bai15.3\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAqwD8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T07:20:06.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\anktu\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\Bai15.2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Bai15.2\\Program.cs",
+              "ToolTip": "C:\\Users\\anktu\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\Bai15.2\\Program.cs",
+              "RelativeToolTip": "..\\Bai15.2\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAACcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T06:57:37.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\anktu\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\Bai15.1\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Bai15.1\\Program.cs",
+              "ToolTip": "C:\\Users\\anktu\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\Bai15.1\\Program.cs",
+              "RelativeToolTip": "..\\Bai15.1\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAowBkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T04:26:42.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\anktu\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\Bai15\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Bai15\\Program.cs",
+              "ToolTip": "C:\\Users\\anktu\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\Bai15\\Program.cs",
+              "RelativeToolTip": "..\\Bai15\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwKEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T18:27:36.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\anktu\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\Bai14.2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Bai14.2\\Program.cs",
+              "ToolTip": "C:\\Users\\anktu\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\Bai14.2\\Program.cs",
+              "RelativeToolTip": "..\\Bai14.2\\Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAC0AAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T18:13:05.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\anktu\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\Bai14.1\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Bai14.1\\Program.cs",
+              "ToolTip": "C:\\Users\\anktu\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\Bai14.1\\Program.cs",
+              "RelativeToolTip": "..\\Bai14.1\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T18:08:45.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\anktu\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\Bai14\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\anktu\\OneDrive\\M\u00E1y t\u00EDnh\\C#\\Bai14\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T17:17:14.262Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
